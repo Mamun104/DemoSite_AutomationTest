@@ -1,15 +1,4 @@
-# OrangeToolz_Assignment2022
-
-This is an Automation Task provided by OrangeToolz for the purpose of hiring process.
-
-# 2ndTest_Task_1
-
-[OrangeToolz_2ndTest_Task-1.xlsx](https://github.com/Mamun104/OrangeToolzAutomation_2ndTest/files/8549161/OrangeToolz_2ndTest_Task-1.xlsx)
-
-
-# 2ndTest_Task_2
-
-[OrangeToolz_2ndTest_Task-2.xlsx](https://github.com/Mamun104/OrangeToolzAutomation_2ndTest/files/8549162/OrangeToolz_2ndTest_Task-2.xlsx)
+# DemoSite_AutomationTest
 
 # Technology:
 
@@ -57,13 +46,7 @@ This is an Automation Task provided by OrangeToolz for the purpose of hiring pro
             
             allure serve allure-results
   
-# Screenshots
 
-These are the snapshots of the allure reports:
-
-![3](https://user-images.githubusercontent.com/78067017/164962106-fb4a1648-6819-4c44-a8e3-d9c83caca781.PNG)
-
-![4](https://user-images.githubusercontent.com/78067017/164962188-f04759f9-5de4-4228-a3d7-4d73f926c8a7.PNG)
 
 
 
